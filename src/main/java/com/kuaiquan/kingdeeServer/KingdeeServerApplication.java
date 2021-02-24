@@ -11,6 +11,7 @@ public class KingdeeServerApplication {
 		SpringApplication.run(KingdeeServerApplication.class, args);
 
 		System.out.println("11");
+		System.out.println("11");
 
 	}
 
